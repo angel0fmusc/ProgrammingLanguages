@@ -1,0 +1,177 @@
+COP 4020 meeting -*- Outline -*-
+
+------------------------------------------
+
+* Contact information
+
+Instructor     : Dr. Pawel Wocjan
+Email          : wocjan@eecs.ucf.edu
+Office         : HEC 341 (Harris Center Bldg. 116)
+Office Hours   : TuTh 4:15 - 5:30pm
+
+GTA            : Sungchul Jung
+Email          : sungchul@knights.ucf.edu
+Office         : TBA
+Office hours   : TBA
+
+UTA    	       : Jonathan Jakes-Schauer
+Email          : j.jakes-schauer@knights.ucf.edu
+Office         : TBA
+Office hours   : TBA 
+
+Course webpage : https://bitbucket.org/schneider128k/2015-spring-cop4020
+
+------------------------------------------
+
+* Course time and location
+
+Time         : TuTh 3:00 - 4:30pm
+Location     : CB2 0206
+
+------------------------------------------
+
+* Course objectives
+
+- Quickly learn new programming languages,
+
+- Master, i.e., effectively use them,
+
+- Evaluate what combination of 
+  programming model and language features 
+  would best solve a given problem, 
+
+------------------------------------------
+   
+* Learning outcomes
+
+- Concepts 
+  understand, use, apply concepts and terms
+
+- Use models 
+  use each essential model in programming model
+  to solve problems
+
+- Evaluate models 
+  for each essential programming model
+  convincingly evaluate its advantages
+  for solving a given problem
+
+- Map to languages 
+  convincingly explain what features 
+  in C, C++, and Java 
+  support each essential programming model
+
+------------------------------------------
+
+* Plan for the course
+
+Learn about 
+
+  - functional programming
+  - logical programming
+
+by using Haskell and Prolog.
+ 
+------------------------------------------
+
+* Grading (homework assignments, exams)
+
+There will be two exams.  The midterm exam
+is worth 40 points.  The final exam is worth
+60 points.  
+
+There will be 5 homeworks assignments.
+Each homework assignment is work is worth 20 points.
+
+- exams     : 40 pts + 60 pts = 100 pts
+- homeworks : 5 x 20 pts      = 100 pts
+=========================================
+- total     :                   200 pts
+
+Absolutely no late homework.  No exceptions.  
+Each homework will be due on Wednesday at 11:59pm.
+The solutions to each homework will be posted on
+Thursday after the deadline. 
+
+You will receive 0 points for the homework assignment 
+if you submit it after the deadline.
+
+The final grade will be computed as follows:
+
+points  grade
+
+>= 180  A  
+>= 170  A-
+>= 160  B+
+>= 150  B
+>= 140  B-
+>= 130  C+
+>= 120  C
+>= 110  C-
+>= 100  D+
+>= 90   D
+>= 80   D-
+less    F
+
+Dates and times for the exams:
+
+- The first exam will be on a Thursday during the regular class time.
+  (the exact date for the exam will be announced on 01/15/2015).
+
+- The second (final) exam will take place during the 
+  official UCF final examination period.
+
+* Cheating and Plagiarism
+
+This policy is based on Dr. Leavens grading policy for COP4020
+in previous semesters: 
+
+http://www.eecs.ucf.edu/~leavens/COP4020/grading_policy.shtml#cheating
+
+The simple rule of thumb is:
+
+  Never give or use someone else's code or written answers.
+
+Such exchanges are definitely cheating and not cooperation. This includes taking answers from the web.
+
+If you use reference materials (other than the course texts) to solve a problem, you must give a citation. Furthermore, use of more than a few words from any source (including the course texts) must be properly set off with quotation marks ("...") or in an italicized block quote and a proper citation given. This definitely includes material from the web. Not attributing material as described above is plagiarism, which is a form of cheating. This includes arranging sentences from other sources without proper use of quotation marks and citations for each quote. We take plagiarism quite seriously, so note this policy well.
+
+Here's a standard statement (from the UCF FCTL web site) about our use of turnitin.com:
+
+"To detect cheating we may use turnitin.com, an automated system that can quickly and easily compare each student's assignment with billions of web sites, as well as an enormous database of student papers that grows with each submission. Accordingly, you may be expected to submit assignments in electronic format. After the assignment is processed, as an instructor I receive a report from turnitin.com that states if and how another author's work was used in the assignment. For a more detailed look at this process, visit http://www.turnitin.com."
+
+If we suspect that cheating occurred, we may ask the involved student(s) to explain in detail their code and answers during office hours.
+
+If we catch you cheating on a test or exchanging code or written answers, you will get no credit for that test or homework, and you may be reported to the Director of the Office of Student Rights and Responsibilities. Read the section on academic dishonesty/cheating in the Golden Rule.
+If you honestly believe that certain problems are too much busy work, then bring it to the instructor's attention; or failing that, only do the part of the problem that you think you need to do to learn the material and explain that to us.
+
+* Disussion, cooperation, and collaboration
+
+Based on http://www.eecs.ucf.edu/~leavens/COP4020/grading_policy.shtml#coop
+
+You are encouraged to discuss homework, and other parts of the class with other students. Such discussions about ideas are not cheating, whereas the exchange of finished, written answers is cheating. However, when you have more than casual discussions about homework problems, you must cite the other person as described below.
+
+When you cooperate on solution ideas or collaborate on producing final answers, you must cite the other people you worked with as follows. This must be done for each problem on which you cooperate or collaborate. (That is, if you work with someone on a problem, you don't need to work with them on the entire homework.)
+
+If you discussed ideas jointly, but wrote up a final answer for the problem independently, then each person should include a note with that problem's solution such as "the following solution was developed jointly with Alyssia P. Hacker," or "the following idea is due to Ben Bittwiddle." Each person's final answer receives a grade independently of the other's; there is no bonus or penalty for such a citation.
+If you jointly worked on a final answer for a problem, you should each hand in on webcourses2 an identical answer, which must include prominently at the beginning of each answer (in a comment for program files): (i) a list of the names of each person who worked on the solution, and (ii) an explicit certification of the form: "Each person actively contributed to and fully understands the solution."
+In this case each member of the group receives the same grade for that problem.
+If the certification is not true for everyone, then only those people for whom it is true may participate in the joint solution; the others should use the ideas and write up their own final answer for the problem, with a note as in the previous bullet point.
+We may, of course, check to make sure that the statements in the certification are true.
+Note that substantial collaboration on solutions which is not cited as described above is considered cheating. In particular, if you are part of a group that divides up the problems in a homework, and some do each one, without actively contributing during the solution of each problem, then this is just an exchange of finished answers--i.e., cheating. Such cheating will be dealt with as described above. It should be clear that you will learn less by such exchanges of finished answers.
+
+Be careful, not to get involved in an unequal collaboration, where you are doing less work than someone else. Part of what you need to do to learn the material is to struggle with it; if you deny yourself that struggle, you will learn less and remember what you learned less. So beware of this trap.
+
+Also, as a kindness to your classmates, you should terminate an unequal collaboration where you are doing more than the other person. The other person will learn the material better if you help them but don't collaborate so closely. In this case it's better to help them only by discussing problems with them, and not by jointly collaborating on solutions.
+
+In discussions of ideas, you should also be careful to distinguish between helping and hurting yourself and the other students. In brief, you can help the other students by teaching them, and you can hurt them by giving them answers that they should have worked out for themselves. (Remember, when you're being tested, you won't be able to help each other.) The same applies to tutoring and getting help from me or a TA.
+
+Harmful discussions most commonly occur in "giving away" a key idea needed to solve a problem. For example, suppose you have studied a programming problem for an hour or so, and finally found that the key to the solution is to use a helping procedure you call "critical". Your friend, after working on the problem for 15 minutes, says "I just can't see how to do this" and you say "try using a helping procedure called 'critical'."
+
+Although it takes more time, your friend will learn more if you say something like: "How are you approaching the problem, what's your plan?" (knowing that if your friend is not planning, no helping procedure will be found). If your friend hasn't planned, you should let them do it; if they have trouble planning, tell them to think about problems discussed in class that were similar, etc. If, after planning, your friend still hasn't found helping procedure 'critical', you should say something more direct like, "what helping procedures do you have?" or "how do these helping procedures help you get closer to the solution?" or "can you solve part of the problem?" The idea is to guide the other person's thinking process.
+
+Perhaps a more common way to fall into the hurtful exchange of giving away the key idea is when you're talking over a problem that no one knows the answer to yet. Once one of you comes up with the key idea, it is tempting to blurt it out, impressing the others with your brilliance. If this happens, you should write "developed in cooperation with ..." on your solution. (Note that this disclaimer cannot be used to get away with cheating, but we're not discussing exchanging written code or answers.) It would be better for the one who comes up with the key idea say "I have it, but now I can't tell you what it is" and then try to guide the others to the solution as described above.
+
+If you have questions about the details of cooperation vs. cheating, please see the professor.
+
+------------------------------------------
