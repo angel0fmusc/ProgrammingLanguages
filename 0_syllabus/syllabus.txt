@@ -4,29 +4,29 @@ COP 4020 meeting -*- Outline -*-
 
 * Contact information
 
-Instructor     : Dr. Pawel Wocjan
-Email          : wocjan@eecs.ucf.edu
-Office         : HEC 341 (Harris Center Bldg. 116)
-Office Hours   : TuTh 4:15 - 5:30pm
+Instructor   : Dr. Pawel Wocjan
+Email        : wocjan@eecs.ucf.edu
+Office       : HEC 341 (Harris Center Bldg. 116)
+Office Hours : TuTh 4:15 - 5:30pm
 
-GTA            : Sungchul Jung
-Email          : sungchul@knights.ucf.edu
-Office         : TBA
-Office hours   : TBA
+GTA          : Sungchul Jung
+Email        : sungchul@knights.ucf.edu
+Office       : TBA
+Office hours : TBA
 
-UTA    	       : Jonathan Jakes-Schauer
-Email          : j.jakes-schauer@knights.ucf.edu
-Office         : TBA
-Office hours   : TBA 
+UTA    	     : Jonathan Jakes-Schauer
+Email        : j.jakes-schauer@knights.ucf.edu
+Office       : TBA
+Office hours : TBA 
 
-Course webpage : https://bitbucket.org/schneider128k/2015-spring-cop4020
+Course webpage/repo : https://bitbucket.org/schneider128k/2015-spring-cop4020
 
 ------------------------------------------
 
 * Course time and location
 
-Time         : TuTh 3:00 - 4:30pm
-Location     : CB2 0206
+Time         : TuTh 3:00PM - 4:15PM
+Location     : HPA1 O119
 
 ------------------------------------------
 
@@ -88,14 +88,6 @@ Each homework assignment is work is worth 20 points.
 =========================================
 - total     :                   200 pts
 
-Absolutely no late homework.  No exceptions.  
-Each homework will be due on Wednesday at 11:59pm.
-The solutions to each homework will be posted on
-Thursday after the deadline. 
-
-You will receive 0 points for the homework assignment 
-if you submit it after the deadline.
-
 The final grade will be computed as follows:
 
 points  grade
@@ -113,13 +105,44 @@ points  grade
 >= 80   D-
 less    F
 
-Dates and times for the exams:
+------------------------------------------
 
-- The first exam will be on a Thursday during the regular class time.
-  (the exact date for the exam will be announced on 01/15/2015).
+* Dates and times for the exams
 
-- The second (final) exam will take place during the 
-  official UCF final examination period.
+- Midterm (first) exam 
+  
+    Thursday 03/03 3:00PM - 4:15PM
+
+    last Thursday before Spring break
+  
+- Final (second) exam 
+  
+    Thursday 04/28 1:00PM - 3:50PM 
+
+    the official UCF final examination period:see http://registrar.ucf.edu/exam/2016/spring
+
+Both exams will be held in HPA1 O119 (our class room).
+
+------------------------------------------
+
+* Homework submission
+
+I will push all the relevant material for each homework to the repo
+https://bitbucket.org/schneider128k/2015-spring-cop4020
+in the homeworks folder.
+
+I will also create a "homework assignment" entry on Webcourses for each homework.
+You will have to upload your solutions to Webcourses.  
+
+Each homework will be due on Wednesday at 11:59pm.
+Absolutely no late homework (no exceptions) because  
+the solutions to each homework will be posted on
+Thursday after the deadline. 
+
+You will receive 0 points for the homework assignment 
+if you submit it after the deadline.
+
+------------------------------------------
 
 * Cheating and Plagiarism
 
@@ -166,6 +189,8 @@ If you honestly believe that certain problems are too much busy work,
 then bring it to the instructor's attention; or failing that, 
 only do the part of the problem that you think you need to do to learn the material 
 and explain that to us.
+
+------------------------------------------
 
 * Disussion, cooperation, and collaboration
 
